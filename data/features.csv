@@ -1,0 +1,3 @@
+﻿Feature,Column Name,Data Type,Details
+Description,`description`,String,Premise / preview / details.
+Categories,`categories`,List of integers,Genre tags.  Integers map to strings in `categories.csv`.
